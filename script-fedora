@@ -1,0 +1,5 @@
+#!/bin/sh
+
+sudo yum update && sudo yum install git fish nodejs cargo python-pip
+
+
